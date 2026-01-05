@@ -1,8 +1,5 @@
 <h1 align="center">Hi, my name is German</h1>
-
 <h3 align="center">Backend software engineer specializing in Go</h3>
-
----
 
 ## Current Tech Stack
 
@@ -17,7 +14,6 @@
   <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
----
 
 ## Contacts
 
